@@ -11,5 +11,6 @@
 3. apply(MyMatrix,2,prod)
 4. MyMatrix[which(MyMatrix==10)]<-12
 5. length(MyMatrix[which(MyMatrix>3 & MyMatrix<8)]) - 33 values
-6. MyDataFrame <- as.data.frame(MyMatrix)
-then MyDataFrame[,12] <- as.character(MyDataFrame[,12])
+6. MyDataFrame <- as.data.frame(MyMatrix) then MyDataFrame[,12] <- as.character(MyDataFrame[,12])
+7. MySums <- rowSums(MyMatrix) then MyDataFrame$V13 <- MySums > 70
+
