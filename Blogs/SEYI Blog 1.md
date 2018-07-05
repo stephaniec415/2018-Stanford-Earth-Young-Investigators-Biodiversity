@@ -1,4 +1,4 @@
-#The Beginning
+# The Beginning
 
 Hi! I’m Stephanie, a first-year intern here in the Stanford Earth Young Investigators (SEYI). 
 This is my very first time contributing to a formal research program where I help answer the question: how animals’ body size has evolved over 3.8 billion year history of life on Earth? Although it has only been a couple of weeks since the program had started, I’ve learned countless things, from how to critically read a scientific paper to coding in R. 
